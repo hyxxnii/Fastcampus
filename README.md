@@ -27,7 +27,7 @@
 	- 제조공정 분야
 	- 마케팅 분야   
 - - -
-### 2. [딥러닝/인공지능 올인원 패키지 Online.](https://www.fastcampus.co.kr/data_online_deep/)
+### 2. [딥러닝/인공지능 올인원 패키지 Online.](https://www.fastcampus.co.kr/data_online_deep)
 - [교육과정 소개서](https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202007/104045-166/[%ED%8C%A8%EC%8A%A4%ED%8A%B8%EC%BA%A0%ED%8D%BC%EC%8A%A4]-%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95%EC%86%8C%EA%B0%9C%EC%84%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5.pdf)
 - Part 1. TensorFlow 2.0 & PyTorch   
 
