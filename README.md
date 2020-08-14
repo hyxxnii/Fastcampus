@@ -44,5 +44,4 @@
 	- Neural Architecture Search
 	- Time sequence processing   
 
-- Part 4. 딥러닝 프로젝트 활용기
-	- 
+- Part 4. 딥러닝 프로젝트 활용기 
