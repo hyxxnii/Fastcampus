@@ -54,15 +54,6 @@
 - Part 2. 탐색적 데이터 분석
 
 - Part 3. 지도학습 주요 모델 및 개념
-	- Image Classification
-	- Multi Object Detection
-	- Image Segmentation
-	- Natural Language Processing
-	- Image Reconstruction
-	- Reinforcement Learning
-	- Generative Learning
-	- Neural Architecture Search
-	- Time sequence processing   
 
 - Part 4. 머신러닝을 위한 필수 전처리
 - Part 5. 머신러닝 모델의 성능 향상을 위한 전처리
